@@ -1,16 +1,25 @@
-## Hi there 👋
+<div>
+  <img align="right" alt="CORI-gif" height="120" width="150" src="https://media.tenor.com/drzSGxNJG3sAAAAi/cbse-tayari.gif">
+</div>
 
-<!--
-**CorinaDS/CorinaDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello, i'm Corina 😁😁😁
 
-Here are some ideas to get you started:
+- 👩‍💻 Data Science
+- 👩‍🎓 MSc student under the Data Science research line
+- 🛰 I'm working on Advanced Statistics, remote sensing and GIS 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Cori-R" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
+  <img align="center" alt="Cori-SPSS" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/spss/spss-original.svg">
+  <img align="center" alt="Cori-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Cori-VScode" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Cori-GEE" height="50" width="110" src="https://www.linuxadictos.com/wp-content/uploads/GoogleEarthEngine-1024x491.jpg.webp">
+  <img align="center" alt="Cori-Tableau" height="60" width="90" src="https://assets.blogs.bsu.edu/wp-content/uploads/sites/38/2023/02/24133338/Tableau-Logo-1024x576.png">
+  <img align="center" alt="Cori-Postgre" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Cori-Qgis" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/9/91/QGIS_logo_new.svg">
+  <img align="center" alt="Cori-SQL" height="40" width="50" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg">
+  <img align="center" alt="Cori-AWS" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+</div>
+
+##
