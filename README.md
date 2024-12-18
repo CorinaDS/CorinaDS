@@ -6,7 +6,7 @@
 
 - 👩‍💻 Data Science
 - 👩‍🎓 MSc student under the Data Science research line
-- 🛰 I'm working on Advanced Statistics, remote sensing and GIS 
+- 🛰 I'm working on Advanced Statistics, data science, remote sensing and GIS 
 
 
 <div style="display: inline_block"><br>
