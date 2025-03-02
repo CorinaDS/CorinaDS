@@ -75,9 +75,7 @@
 
 ## 📬 Contacto  
 
-📩 **Email:** [your_email@example.com](mailto:your_email@example.com)  
-🔗 **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)  
-🌐 **Website:** [yourwebsite.com](https://yourwebsite.com)  
+🔗 **LinkedIn:** [linkedin.com/in/cearth](https://www.linkedin.com/in/cearth/)  
 
 ---
 
