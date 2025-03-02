@@ -64,15 +64,6 @@
 
 ---
 
-## 📈 GitHub Stats  
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=tokyonight" width="450" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu_usuario&theme=tokyonight" width="450" />
-</div>
-
----
-
 ## 📬 Contacto  
 
 🔗 **LinkedIn:** [linkedin.com/in/cearth](https://www.linkedin.com/in/cearth/)  
